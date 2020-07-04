@@ -23,4 +23,4 @@ Fit and plot a univariate or bivariate kernel density estimate.
 
 ![download (16)](https://user-images.githubusercontent.com/48255425/86516206-426d5c80-be3c-11ea-9294-2fcf146a5bcf.png)
 
-The model shows 96%(approx.) Accuracy on the forecasting which is quite great can be inreased by inreasing the Epochs.
+**The model shows 96%(approx.) Accuracy on the forecasting which is quite great can be inreased by inreasing the Epochs.**
